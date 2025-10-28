@@ -4,7 +4,7 @@ A modern, optimized personal portfolio showcasing projects, research, and profes
 
 ## 🌐 Live Website
 
-Visit the live portfolio at: [https://YOUR_GITHUB_USERNAME.github.io/Kiran_Portifolio/](https://YOUR_GITHUB_USERNAME.github.io/Kiran_Portifolio/)
+Visit the live portfolio at: [https://kirann05.github.io/Kiran_Portifolio/](https://kirann05.github.io/Kiran_Portifolio/)
 
 ## ✨ Features
 
@@ -106,7 +106,3 @@ This project is open source and available for personal use.
 - Animations powered by [GSAP](https://greensock.com/gsap/)
 - Fonts by [Google Fonts](https://fonts.google.com/)
 - Optimized with [Claude Code](https://claude.com/claude-code)
-
----
-
-**Note**: Replace `YOUR_GITHUB_USERNAME` and `YOUR_USERNAME` with your actual GitHub username before deploying.
